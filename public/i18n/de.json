@@ -1,0 +1,134 @@
+{
+  "navbar": {
+    "subject": "Alle Fächer"
+  },
+
+  "subjectOverview": {
+    "DEG": "Deutsch",
+    "ENG": "Englisch",
+    "FRG": "Französisch",
+    "FRS": "FRS: Finanz- & Rechnungswesen",
+    "GPE": "GPE: Geschichte & Politik",
+    "MAG": "Mathematik Grundlagefach",
+    "MAS": "Mathematik Schwerpunktfach",
+    "WRS": "W&R: Wirtschaft & Recht"
+  },
+
+  "DEG": {
+    "title": "",
+    "01_interview": "",
+    "02_portrait": "",
+    "03_argumentieren": "",
+    "04_kommunikation": "",
+    "05_rhetorik": "",
+    "06_fiktionale_texte": "",
+    "07_literatur_bausteine": "",
+    "08_was_ist_ein_text": "",
+    "09_buecher": {
+      "buch_01": "Ferdinand von Schirach - Terror",
+      "buch_02": "Gottfried Keller - Romeo und Julia auf dem Dorfe",
+      "buch_03": "Gerhart Hauptmann - Bahnwärter Thiel",
+      "buch_04": "Sven Regener - Herr Lehmann"
+    }
+  },
+
+  "ENG": {
+    "header": {
+      "eins": "",
+      "zwei": "",
+      "drei": "",
+      "vier": ""
+    },
+    "text": {
+      "eins": "",
+      "zwei": ""
+    },
+    "button": {
+      "text": "Kontakt aufnehmen"
+    }
+  },
+
+  "FRG": {
+    "header": "Französisch",
+    "text": "",
+    "join": {
+      "title": "",
+      "description": ""
+    },
+    "polloLoco": {
+      "title": "",
+      "description": ""
+    },
+    "pokedex": {
+      "title": "Pokédex",
+      "description": ""
+    },
+    "dabubble": {
+      "title": "",
+      "description": ""
+    },
+    "simplecrm": {
+      "title": "",
+      "description": ""
+    }
+  },
+
+  "FRS": {
+    "header": "FRS: Finanz- & Rechnungswesen",
+    "": ""
+  },
+
+  "GPE": {
+    "header": "GPE: Geschichte & Politik",
+    "": ""
+  },
+
+  "MAG": {
+    "header": "Mathematik Grundlagefach",
+    "": ""
+  },
+
+  "MAS": {
+    "header": "Mathematik Schwerpunktfach",
+    "": ""
+  },
+
+  "WRS": {
+    "header": "W&R: Wirtschaft & Recht",
+    "": ""
+  },
+
+  "whatMyColleguasSay": {
+    "teamPlayer": {
+      "johannes": {
+        "name": "",
+        "project": "",
+        "feedback": "",
+        "linkedin": ""
+      },
+      "test": {
+        "name": "",
+        "project": "",
+        "feedback": "",
+        "linkedin": ""
+      }
+    }
+  },
+
+  "contact": {
+    "header": "",
+    "text": "",
+    "privacy": {
+      "eins": "",
+      "zwei": " ",
+      "drei": ""
+    }
+  },
+
+  "imprint": {
+    "header": "",
+    "": "",
+    "contact": "",
+    "mobile": ""
+  }
+}
